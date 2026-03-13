@@ -1,0 +1,39 @@
+[
+    {
+        "actors": [
+            "Johoten",
+            "Walter White"
+        ],
+        "description": "Join our great stride",
+        "director": "Johoten",
+        "duration": 130,
+        "genres": [
+            "Action"
+        ],
+        "path": "C:/Users/ursac/Downloads/sampleMovie.mp4",
+        "plot": "To the right and to the left",
+        "rating": "UI100",
+        "title": "The Brand New World",
+        "watched": false,
+        "year": 2024
+    },
+    {
+        "actors": [
+            "Father",
+            "Mother"
+        ],
+        "description": "sgsdgsdgsdgfsdf",
+        "director": "Walter",
+        "duration": 130,
+        "genres": [
+            "MIA",
+            "AUR"
+        ],
+        "path": "C:/Users/ursac/Downloads/sampleMovie.mp4",
+        "plot": "ajfiafafss",
+        "rating": "R-23",
+        "title": "ABC",
+        "watched": true,
+        "year": 2000
+    }
+]

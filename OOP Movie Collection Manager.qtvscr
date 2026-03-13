@@ -1,0 +1,429 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2025-05-30 12:57:05",
+  "files": {
+    "C:\\Users\\ursac\\source\\repos\\OOP Movie Collection Manager\\OOP Movie Collection Manager\\OOP Movie Collection Manager.vcxproj": {
+      "before": "7Vlfb9s2EO/zgH2CvRhCCicPsRzHS4tFVtHKaWDMjoM4f14GFLR8trlKokBSabJ1H2HfeSeRoixHrmNkS7ogeQhg8kje/Xj3uzvq759evXLe3YRB7Rq4oCzqWHuNplWDyGcTGs06ViKnu2+td+6PPzinnP0Ovqx1YUqSQJ4TPgMpOtaHhAYTq4a7RPhrLmX8i20Lfw4hEY2Q+pwJNpUNn4X2BK4hYDFwOxTjdJndajb3Ldy9VnN6EsJjzpK41idjCDqWPtBj0ZTOEk4kKiiUMIpXzdZ6kR8kE+hYXRgns69XNNpv5StwTWkrN5Nx7PJgqkr655wGRE4ZD91sE8c2v5UEDig8qpavUe4MAiAC1qinpZ5CQYXezUH7odjhFv8Jct9S7d64baicYxsPVQ6LDoCuLG9LTnscsDEJCje99LSfXKoIc/feNJqOfWdYe9WvcPuF8YlyunSlY+dDWkJvd5zQifvntO2Pp+Of93fJm1Zrtw1jf5cQsrd74LearQO/2fbftv8yrpqt0ducMSZPSAgiJj64w+HpgF1T8FgQYIxjoA1IRGbAHbssqFdjTEzYF6E4II8MY2EztfCbIuk2mVoFgJoEwphxWdNGdqyt7UtPM80pkfOd3waGULw4bmguasR4FcKq2VUXgwE6oalJHau+tV0K152vW9u59jv1Tqe+QBt1K+eh0pI8Ispccn4bg/s+jgPqZzS1FLTZtIbuQkB2Sp+OOeEUhCt5Ao59d1wvyBU8ZywQIN3rvfZ+EVT5qBb25oQTXwIfoeRFRJHHce/S6ErsEfTiOmqbwFYitMcDboqB9q8hdzVnASAEM07CYSxpSP/IrlJfz8rpJwXeEPXjgf58vBX5//Fgey6+2tuMoMvErBaX8uXRjYQoLT2RsCSWnDpzYrLNDspkF1NDafEI2Q4mipLvtyLnuNEcsHi1NmK5UnLIdMIkdhcPJHKeJs0u5cvpaiHbNBIUy/PWAtfCDRVSbGOm2nif+o5JWX3mkwDzUZdIkucPkx7vBe1DgFpKBy9QmfZlRcGRMdELTKthyj3q+QGVx1mJ19LQH5C0czZBm/YeWO3SKCtllfQCbWxW2eau5gUeC2MagB5APrsiPEIa7qedupv9x2KzNKgKHhQddfveHPzPukIyP43AKQfkfx+EYLzQXbhXvZP91uGn7tGHi+PDT97wZDTsHx2+3l4hv5N2CtU7maPSGh2bdRL5MMCSV6u0PKprNXvZbqdPo88FBqNkPLoVCLiLGwgsCx27GDJHHkME+CihqvmeOj5tM/TZK6dzJcyZqrEsAFrMeQ+89TxusjeMetG7POjePyZR1iJm3pFagf6ija6cMoj1IskpJns/F8t7n4oJs8i4lSo8zU8jsMo3lJed/M+97Cgi4wC84aD7/vwjC9JXOY111YwBRXcwcAZT4PicZ9rMigmzaKXLKuhXTqsNHPsxPHqh43liFnvhL82Zj8Bfpby/zN6bZa2ce75z9nrhre+Pt4rEjC7nBfpjQ/HRAasFydMXVN6Y54VbtWSXhYRG66TOIGaCSsZv10meg0ib53ViaV2JuRb4FB99C2EVwIV1xaeYOxRbaawfxyVzdVFZyGpz18otGLxWNjd5rWDZ6AXxu2Zv9rYh1Rew3HT9FKBKc/0Jy7xu6Dfs6qcK80Dv/gM=",
+      "after": "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"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2025-05-30 12:57:05</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\ursac\source\repos\OOP Movie Collection Manager\OOP Movie Collection Manager\OOP Movie Collection Manager.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--lkQ262NLDvkcY7FI7WyKGJaZPsJFprfx7k+Rz9rnuj4=-->

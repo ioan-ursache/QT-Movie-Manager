@@ -1,0 +1,19 @@
+[
+    {
+        "actors": [
+            "Test Actor"
+        ],
+        "description": "A test movie",
+        "director": "Test Director",
+        "duration": 120,
+        "genres": [
+            "Action"
+        ],
+        "path": "/path/to/test.mp4",
+        "plot": "Test plot",
+        "rating": "PG-13",
+        "title": "Test Movie",
+        "watched": false,
+        "year": 2023
+    }
+]
